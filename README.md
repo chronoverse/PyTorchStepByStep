@@ -155,3 +155,4 @@ This will open your browser up and you will see **Jupyter's Home Page** containi
 
 Congratulations! You are ready to go through the chapters' notebooks!
 
+Making a new branch.
